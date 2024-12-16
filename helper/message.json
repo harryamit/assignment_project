@@ -1,0 +1,40 @@
+{
+    "INSTITUTE": {
+      "CREATE_SUCCESS": "INSTITUTE created successfully",
+      "CREATE_FAILURE": "Failed to create INSTITUTE",
+      "FETCH_SUCCESS": "INSTITUTEs retrieved successfully",
+      "FETCH_FAILURE": "Failed to retrieve INSTITUTEs",
+      "NOT_FOUND": "INSTITUTE not found",
+      "UPDATE_SUCCESS": "INSTITUTE updated successfully",
+      "UPDATE_FAILURE": "Failed to update INSTITUTE",
+      "DELETE_SUCCESS": "INSTITUTE deleted successfully",
+      "DELETE_FAILURE": "Failed to delete INSTITUTE"
+    },
+    "ADDMISSION": {
+        "CREATE_SUCCESS": "ADDMISSION created successfully",
+        "CREATE_FAILURE": "Failed to create ADDMISSION",
+        "FETCH_SUCCESS": "ADDMISSIONs retrieved successfully",
+        "FETCH_FAILURE": "Failed to retrieve ADDMISSIONs",
+        "NOT_FOUND": "ADDMISSION not found",
+        "UPDATE_SUCCESS": "ADDMISSION updated successfully",
+        "UPDATE_FAILURE": "Failed to update ADDMISSION",
+        "DELETE_SUCCESS": "ADDMISSION deleted successfully",
+        "DELETE_FAILURE": "Failed to delete ADDMISSION"
+      },
+      "SCHOOL": {
+    "CREATE_SUCCESS": "School created successfully.",
+    "FETCH_SUCCESS": "School(s) retrieved successfully.",
+    "UPDATE_SUCCESS": "School updated successfully.",
+    "DELETE_SUCCESS": "School deleted successfully.",
+    "NOT_FOUND": "School not found.",
+    "NO_RECORDS": "No schools found."
+  },
+    "validation": {
+      "REQUIRED_FIELDS": "All fields are required",
+      "INVALID_INPUT": "Invalid input provided"
+    },
+    "server": {
+      "INTERNAL_ERROR": "Internal server error"
+    }
+  }
+  
